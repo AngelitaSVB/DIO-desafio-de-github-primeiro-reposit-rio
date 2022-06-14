@@ -1,1 +1,2 @@
 O Git é um terminal extendido para otimizar o uso do Git.
+Site para baixar: https://git-scm.com/downloads
